@@ -190,7 +190,7 @@ logger.error = (msg, options) => {
 }
 
 export default defineConfig({
-  base: '/master_refeicoes/',
+  base: '/master-refeicoes/',
 
 	customLogger: logger,
 	plugins: [
